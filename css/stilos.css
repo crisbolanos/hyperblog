@@ -33,9 +33,3 @@ body{
  #container h1{
     font-size: 20px;
  }
-
- #container img{
-    height: 30px;
-    width: 30px;
-    position: relative;
- }
